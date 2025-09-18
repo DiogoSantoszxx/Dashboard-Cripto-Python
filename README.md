@@ -7,7 +7,7 @@ Feito com **Streamlit + Plotly + Pandas** 🚀
 
 ## ⚡ Demonstração
 
-👉 [Acesse o dashboard online aqui](https://share.streamlit.io/) *(coloque o link depois do deploy)*
+👉 [Acesse o dashboard online aqui]([https://share.streamlit.io/](https://dashboard-cripto-python-bnnzfv3qeqquzrkr7ggsmj.streamlit.app/)) 
 
 ---
 
