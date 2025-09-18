@@ -11,12 +11,6 @@ Feito com **Streamlit + Plotly + Pandas** 🚀
 
 ---
 
-## 📸 Preview
-
-![Preview do Dashboard](https://img.shields.io/badge/Criptomoedas-Dashboard-blue?style=for-the-badge&logo=python)
-
----
-
 ## 🛠 Tecnologias Usadas
 
 - 🐍 Python  
@@ -48,17 +42,8 @@ streamlit run app.py
 
 ---
 
-## 🌍 Deploy no Streamlit Cloud
-
-1. Crie uma conta gratuita no [Streamlit Cloud](https://streamlit.io/cloud).  
-2. Conecte seu repositório GitHub.  
-3. Deploy automático!  
-
-Depois é só copiar o link e postar no LinkedIn com prints 👨‍💻✨
-
----
 
 ## 👨‍💻 Autor
 
 Desenvolvido por **Seu Nome**  
-🔗 [LinkedIn](https://linkedin.com/in/seu-perfil) | 🐙 [GitHub](https://github.com/seuusuario)
+🔗 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/diogofigueirasantos/)) | 🐙 [GitHub]([https://github.com/seuusuario](https://github.com/DiogoSantoszxx))
